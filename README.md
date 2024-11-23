@@ -45,9 +45,6 @@ The dataset used in this analysis contains both clinical data of Hepatitis C pat
 
 ## Installation
 
-To run this project on your local machine, follow these steps:
-
-
 https://github.com/keyubi/hepatit-c-data-analysis
 
 ## Link for the Kaggle Notebook
