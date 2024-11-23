@@ -50,7 +50,10 @@ To run this project on your local machine, follow these steps:
 
 https://github.com/keyubi/hepatit-c-data-analysis
 
-## Link for the Kaggle
+## Link for the Kaggle Notebook
 
-https://www.kaggle.com/code/kubtem/hepatitis-c-prediction-by-kubtem
+[https://www.kaggle.com/code/kubtem/hepatitis-c-prediction-by-kubtem
 
+## Link for the Kaggle Dataset
+
+https://www.kaggle.com/datasets/fedesoriano/hepatitis-c-dataset
