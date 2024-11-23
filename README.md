@@ -49,8 +49,7 @@ To run this project on your local machine, follow these steps:
 
 1. Clone the repository:
    ```bash
-   https://github.com/keyubi/hepatitis-c-prediction.git
-
+   https://github.com/keyubi/hepatit-c-data-analysis
 ## Link for the Kaggle
    ```bash
 https://www.kaggle.com/code/kubtem/hepatitis-c-prediction-by-kubtem
