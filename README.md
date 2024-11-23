@@ -49,7 +49,7 @@ https://github.com/keyubi/hepatit-c-data-analysis
 
 ## Link for the Kaggle Notebook
 
-[https://www.kaggle.com/code/kubtem/hepatitis-c-prediction-by-kubtem
+https://www.kaggle.com/code/kubtem/hepatitis-c-prediction-by-kubtem
 
 ## Link for the Kaggle Dataset
 
