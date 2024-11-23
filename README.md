@@ -47,10 +47,10 @@ The dataset used in this analysis contains both clinical data of Hepatitis C pat
 
 To run this project on your local machine, follow these steps:
 
-1. Clone the repository:
-   ```bash
-   https://github.com/keyubi/hepatit-c-data-analysis
+
+https://github.com/keyubi/hepatit-c-data-analysis
+
 ## Link for the Kaggle
-   ```bash
+
 https://www.kaggle.com/code/kubtem/hepatitis-c-prediction-by-kubtem
 
